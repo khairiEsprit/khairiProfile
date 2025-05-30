@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=khairibzd.khairibzd&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=khairiEsprit.khairiEsprit&"  />
 </div>
 
 ###
@@ -97,6 +97,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/khairibzd/khairibzd/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/khairiEsprit/khairiEsprit/output/snake.svg" alt="Snake animation" />
 
 ###
