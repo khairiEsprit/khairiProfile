@@ -97,6 +97,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/khairiEsprit/khairiEsprit/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/khairiEsprit/output/snake.svg" alt="Snake animation" />
 
 ###
